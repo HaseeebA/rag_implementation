@@ -1,4 +1,4 @@
-# Document RAG (Retrieval-Augmented Generation) Project
+# RAG Project implemented with LLM for accurate results
 
 This project implements a simple RAG system that allows you to extract text from PDF and DOCX documents, convert them to markdown format, create embeddings, and query your documents using natural language.
 
