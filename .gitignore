@@ -1,4 +1,2 @@
 .env
 venv
-./chroma_db/*
-./documents
