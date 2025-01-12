@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+openai
+python-docx
+PyPDF2
+markdown
+langchain-openai
+langchain-chroma
+langchain-huggingface
